@@ -1,0 +1,17 @@
+* {
+  font-family: "Glory", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+#gallery {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
